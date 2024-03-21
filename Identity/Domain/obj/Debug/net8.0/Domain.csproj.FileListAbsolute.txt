@@ -1,0 +1,15 @@
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Domain/bin/Debug/net8.0/Domain.deps.json
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Domain/bin/Debug/net8.0/Domain.runtimeconfig.json
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Domain/bin/Debug/net8.0/Domain.dll
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Domain/bin/Debug/net8.0/Domain.pdb
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Domain/obj/Debug/net8.0/Domain.csproj.AssemblyReference.cache
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Domain/obj/Debug/net8.0/Domain.dll
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Domain/obj/Debug/net8.0/refint/Domain.dll
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Domain/obj/Debug/net8.0/Domain.pdb
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Domain/obj/Debug/net8.0/Domain.genruntimeconfig.cache
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Domain/obj/Debug/net8.0/ref/Domain.dll

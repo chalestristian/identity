@@ -1,0 +1,15 @@
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll

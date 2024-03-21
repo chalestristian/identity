@@ -1,0 +1,377 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Api/Api.csproj": {}
+  },
+  "projects": {
+    "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Api/Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Api/Api.csproj",
+        "projectName": "Api",
+        "projectPath": "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Api/Api.csproj",
+        "packagesPath": "/home/chalestristian/.nuget/packages/",
+        "outputPath": "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/chalestristian/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/IoC/IoC.csproj": {
+                "projectPath": "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/IoC/IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Application/Application.csproj",
+        "packagesPath": "/home/chalestristian/.nuget/packages/",
+        "outputPath": "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/chalestristian/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Domain/Domain.csproj": {
+                "projectPath": "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Data/Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Data/Data.csproj",
+        "projectName": "Data",
+        "projectPath": "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Data/Data.csproj",
+        "packagesPath": "/home/chalestristian/.nuget/packages/",
+        "outputPath": "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/chalestristian/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Domain/Domain.csproj": {
+                "projectPath": "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Domain/Domain.csproj",
+        "packagesPath": "/home/chalestristian/.nuget/packages/",
+        "outputPath": "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/chalestristian/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/IoC/IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/IoC/IoC.csproj",
+        "projectName": "IoC",
+        "projectPath": "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/IoC/IoC.csproj",
+        "packagesPath": "/home/chalestristian/.nuget/packages/",
+        "outputPath": "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/IoC/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/chalestristian/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Application/Application.csproj": {
+                "projectPath": "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Application/Application.csproj"
+              },
+              "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Data/Data.csproj": {
+                "projectPath": "/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Data/Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Way2Commerce.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Way2Commerce.Api.Controllers.v1.CategoriaController.ObterTodas">
+            <summary>
+            Obtém todas as categorias.
+            </summary>
+            <remarks>
+            </remarks>
+            <returns></returns>
+            <response code="200">Retorna todas as categorias cadastradas</response>
+            <response code="500">Retorna erros caso ocorram</response>
+        </member>
+        <member name="M:Way2Commerce.Api.Controllers.v1.CategoriaController.ObterPorId(System.Int32)">
+            <summary>
+            Obtém categoria por Id.
+            </summary>
+            <remarks>
+            </remarks>
+            <param name="id">Id da categoria</param>
+            <returns></returns>
+            <response code="200">Retorna os dados da categoria</response>
+            <response code="404">Retorno caso a categoria não seja encontrada</response>
+            <response code="500">Retorna erros caso ocorram</response>
+        </member>
+        <member name="M:Way2Commerce.Api.Controllers.v1.ProdutoController.ObterTodos">
+            <summary>
+            Obtém todos os produtos.
+            </summary>
+            <remarks>
+            </remarks>
+            <returns></returns>
+            <response code="200">Retorna todos os produtos cadastrados</response>
+            <response code="500">Retorna erros caso ocorram</response>
+        </member>
+        <member name="M:Way2Commerce.Api.Controllers.v1.ProdutoController.ObterPorId(System.Int32)">
+            <summary>
+            Obtém produto por Id.
+            </summary>
+            <remarks>
+            </remarks>
+            <param name="id">Id do produto</param>
+            <returns></returns>
+            <response code="200">Retorna os dados do produto</response>
+            <response code="404">Retorno caso o produto não seja encontrado</response>
+            <response code="500">Retorna erros caso ocorram</response>
+        </member>
+        <member name="M:Way2Commerce.Api.Controllers.v1.ProdutoController.Inserir(Way2Commerce.Application.DTOs.Request.InsercaoProdutoRequest)">
+            <summary>
+            Insere um produto.
+            </summary>
+            <remarks>
+            </remarks>
+            <param name="produtoRequest">Dados do produto</param>
+            <returns></returns>
+            <response code="201">Retorna o Id do produto criado</response>
+            <response code="400">Retorna erros de validação</response>
+            <response code="500">Retorna erros caso ocorram</response>
+        </member>
+        <member name="M:Way2Commerce.Api.Controllers.v1.ProdutoController.Atualizar(Way2Commerce.Application.DTOs.Request.AtualizacaoProdutoRequest)">
+            <summary>
+            Atualiza um produto.
+            </summary>
+            <remarks>
+            </remarks>
+            <param name="produtoRequest">Dados do produto</param>
+            <returns></returns>
+            <response code="200">Sucesso ao atualizar produto</response>
+            <response code="400">Retorna erros de validação</response>
+            <response code="500">Retorna erros caso ocorram</response>
+        </member>
+        <member name="M:Way2Commerce.Api.Controllers.v1.ProdutoController.Excluir(System.Int32)">
+            <summary>
+            Exclui um produto.
+            </summary>
+            <remarks>
+            </remarks>
+            <param name="id">Id do produto</param>
+            <returns></returns>
+            <response code="200">Sucesso ao excluir produto</response>
+            <response code="400">Retorna erros de validação</response>
+            <response code="500">Retorna erros caso ocorram</response>
+        </member>
+        <member name="M:Way2Commerce.Api.Controllers.v1.UsuarioController.Cadastrar(Way2Commerce.Application.DTOs.Request.UsuarioCadastroRequest)">
+            <summary>
+            Cadastro de usuário.
+            </summary>
+            <remarks>
+            </remarks>
+            <param name="usuarioCadastro">Dados de cadastro do usuário</param>
+            <returns></returns>
+            <response code="200">Usuário criado com sucesso</response>
+            <response code="400">Retorna erros de validação</response>
+            <response code="500">Retorna erros caso ocorram</response>
+        </member>
+        <member name="M:Way2Commerce.Api.Controllers.v1.UsuarioController.Login(Way2Commerce.Application.DTOs.Request.UsuarioLoginRequest)">
+            <summary>
+            Login do usuário via usuário/senha.
+            </summary>
+            <remarks>
+            </remarks>
+            <param name="usuarioLogin">Dados de login do usuário</param>
+            <returns></returns>
+            <response code="200">Login realizado com sucesso</response>
+            <response code="400">Retorna erros de validação</response>
+            <response code="401">Erro caso usuário não esteja autorizado</response>
+            <response code="500">Retorna erros caso ocorram</response>
+        </member>
+        <member name="M:Way2Commerce.Api.Controllers.v1.UsuarioController.RefreshLogin">
+            <summary>
+            Login do usuário via refresh token.
+            </summary>
+            <remarks>
+            </remarks>
+            <returns></returns>
+            <response code="200">Login realizado com sucesso</response>
+            <response code="400">Retorna erros de validação</response>
+            <response code="401">Erro caso usuário não esteja autorizado</response>
+            <response code="500">Retorna erros caso ocorram</response>
+        </member>
+    </members>
+</doc>

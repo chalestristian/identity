@@ -1,0 +1,6 @@
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Api/obj/Debug/net8.0/Api.csproj.AssemblyReference.cache
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Api/obj/Debug/net8.0/Api.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Api/obj/Debug/net8.0/Api.AssemblyInfoInputs.cache
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Api/obj/Debug/net8.0/Api.AssemblyInfo.cs
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Api/obj/Debug/net8.0/Api.csproj.CoreCompileInputs.cache
+/mnt/76beb58c-d5cb-43fb-8a5e-41da663f281a/GITS/Identity/Identity/Api/obj/Debug/net8.0/Api.sourcelink.json
